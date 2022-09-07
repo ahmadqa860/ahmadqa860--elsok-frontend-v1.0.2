@@ -1,0 +1,21 @@
+.iframe1{
+  margin-top: 150px;
+  width:50%;
+  height:240px;
+  margin-bottom: 20px;
+}
+
+iframe{
+  margin-top: 45px;
+  width:50%;
+  height:240px;
+  margin-bottom: 2px;
+  margin: 0 auto 20px 0;
+  
+}
+
+.iframeLeft iframe{
+  margin-right: 50px;
+  
+}
+
